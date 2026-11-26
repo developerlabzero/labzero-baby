@@ -2,7 +2,6 @@
 
 Newborn and infant care simulation for health trainees, and the next chapter of LabZero Mama. It runs on the LabZero Mama engine and is set in the same fictional clinic (Ikhwezi Community Health Centre). It follows the same family: Lwazi, the 31-week baby born to Thembeka Ngcobo in Mama, grows up across the linked cases.
 
-- Live build (Claude artifact): https://claude.ai/artifact/XDeAqdoqwG4kyKoMhD4vbH
 - Single-file build in this folder: `labzero-baby-v0.4.html`. Open it in any browser; it works offline.
 - Licences: code MIT, case content CC BY 4.0. Fictional cases for training only. Not for clinical use.
 - Status: prototype. Clinical content is a draft pending SMU clinical review and sign-off (see "Review" below).
